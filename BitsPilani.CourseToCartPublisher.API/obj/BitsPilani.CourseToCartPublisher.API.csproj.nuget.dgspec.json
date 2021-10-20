@@ -1,0 +1,317 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ScalableServiceAssignment\\BitsPilani.CourseToCartPublisher.Microservice\\BitsPilani.CourseToCartPublisher.API\\BitsPilani.CourseToCartPublisher.API.csproj": {}
+  },
+  "projects": {
+    "D:\\ScalableServiceAssignment\\BitsPilani.CourseToCartPublisher.Microservice\\BitsPilani.CourseToCartPublisher.API\\BitsPilani.CourseToCartPublisher.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ScalableServiceAssignment\\BitsPilani.CourseToCartPublisher.Microservice\\BitsPilani.CourseToCartPublisher.API\\BitsPilani.CourseToCartPublisher.API.csproj",
+        "projectName": "BitsPilani.CourseToCartPublisher.API",
+        "projectPath": "D:\\ScalableServiceAssignment\\BitsPilani.CourseToCartPublisher.Microservice\\BitsPilani.CourseToCartPublisher.API\\BitsPilani.CourseToCartPublisher.API.csproj",
+        "packagesPath": "C:\\Users\\Kairav\\.nuget\\packages\\",
+        "outputPath": "D:\\ScalableServiceAssignment\\BitsPilani.CourseToCartPublisher.Microservice\\BitsPilani.CourseToCartPublisher.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kairav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\ScalableServiceAssignment\\BitsPilani.CourseToCartPublisher.Microservice\\BitsPilani.CourseToCartPublisher.BL\\BitsPilani.CourseToCartPublisher.BL.csproj": {
+                "projectPath": "D:\\ScalableServiceAssignment\\BitsPilani.CourseToCartPublisher.Microservice\\BitsPilani.CourseToCartPublisher.BL\\BitsPilani.CourseToCartPublisher.BL.csproj"
+              },
+              "D:\\ScalableServiceAssignment\\BitsPilani.CourseToCartPublisher.Microservice\\BitsPilani.CourseToCartPublisher.DB\\BitsPilani.CourseToCartPublisher.DB.csproj": {
+                "projectPath": "D:\\ScalableServiceAssignment\\BitsPilani.CourseToCartPublisher.Microservice\\BitsPilani.CourseToCartPublisher.DB\\BitsPilani.CourseToCartPublisher.DB.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.9, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ScalableServiceAssignment\\BitsPilani.CourseToCartPublisher.Microservice\\BitsPilani.CourseToCartPublisher.BL\\BitsPilani.CourseToCartPublisher.BL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ScalableServiceAssignment\\BitsPilani.CourseToCartPublisher.Microservice\\BitsPilani.CourseToCartPublisher.BL\\BitsPilani.CourseToCartPublisher.BL.csproj",
+        "projectName": "BitsPilani.CourseToCartPublisher.BL",
+        "projectPath": "D:\\ScalableServiceAssignment\\BitsPilani.CourseToCartPublisher.Microservice\\BitsPilani.CourseToCartPublisher.BL\\BitsPilani.CourseToCartPublisher.BL.csproj",
+        "packagesPath": "C:\\Users\\Kairav\\.nuget\\packages\\",
+        "outputPath": "D:\\ScalableServiceAssignment\\BitsPilani.CourseToCartPublisher.Microservice\\BitsPilani.CourseToCartPublisher.BL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kairav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\ScalableServiceAssignment\\BitsPilani.CourseToCartPublisher.Microservice\\BitsPilani.CourseToCartPublisher.Common\\BitsPilani.CourseToCartPublisher.Common.csproj": {
+                "projectPath": "D:\\ScalableServiceAssignment\\BitsPilani.CourseToCartPublisher.Microservice\\BitsPilani.CourseToCartPublisher.Common\\BitsPilani.CourseToCartPublisher.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "BitsPilani.RabbitMQMessageBroker": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ScalableServiceAssignment\\BitsPilani.CourseToCartPublisher.Microservice\\BitsPilani.CourseToCartPublisher.Common\\BitsPilani.CourseToCartPublisher.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ScalableServiceAssignment\\BitsPilani.CourseToCartPublisher.Microservice\\BitsPilani.CourseToCartPublisher.Common\\BitsPilani.CourseToCartPublisher.Common.csproj",
+        "projectName": "BitsPilani.CourseToCartPublisher.Common",
+        "projectPath": "D:\\ScalableServiceAssignment\\BitsPilani.CourseToCartPublisher.Microservice\\BitsPilani.CourseToCartPublisher.Common\\BitsPilani.CourseToCartPublisher.Common.csproj",
+        "packagesPath": "C:\\Users\\Kairav\\.nuget\\packages\\",
+        "outputPath": "D:\\ScalableServiceAssignment\\BitsPilani.CourseToCartPublisher.Microservice\\BitsPilani.CourseToCartPublisher.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kairav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "BitsPilani.RabbitMQMessageBroker": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ScalableServiceAssignment\\BitsPilani.CourseToCartPublisher.Microservice\\BitsPilani.CourseToCartPublisher.DB\\BitsPilani.CourseToCartPublisher.DB.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ScalableServiceAssignment\\BitsPilani.CourseToCartPublisher.Microservice\\BitsPilani.CourseToCartPublisher.DB\\BitsPilani.CourseToCartPublisher.DB.csproj",
+        "projectName": "BitsPilani.CourseToCartPublisher.DB",
+        "projectPath": "D:\\ScalableServiceAssignment\\BitsPilani.CourseToCartPublisher.Microservice\\BitsPilani.CourseToCartPublisher.DB\\BitsPilani.CourseToCartPublisher.DB.csproj",
+        "packagesPath": "C:\\Users\\Kairav\\.nuget\\packages\\",
+        "outputPath": "D:\\ScalableServiceAssignment\\BitsPilani.CourseToCartPublisher.Microservice\\BitsPilani.CourseToCartPublisher.DB\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kairav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\ScalableServiceAssignment\\BitsPilani.CourseToCartPublisher.Microservice\\BitsPilani.CourseToCartPublisher.BL\\BitsPilani.CourseToCartPublisher.BL.csproj": {
+                "projectPath": "D:\\ScalableServiceAssignment\\BitsPilani.CourseToCartPublisher.Microservice\\BitsPilani.CourseToCartPublisher.BL\\BitsPilani.CourseToCartPublisher.BL.csproj"
+              },
+              "D:\\ScalableServiceAssignment\\BitsPilani.CourseToCartPublisher.Microservice\\BitsPilani.CourseToCartPublisher.Common\\BitsPilani.CourseToCartPublisher.Common.csproj": {
+                "projectPath": "D:\\ScalableServiceAssignment\\BitsPilani.CourseToCartPublisher.Microservice\\BitsPilani.CourseToCartPublisher.Common\\BitsPilani.CourseToCartPublisher.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "BitsPilani.RabbitMQMessageBroker": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.2.79, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+D:\ScalableServiceAssignment\BitsPilani.CourseToCartPublisher.Microservice\BitsPilani.CourseToCartPublisher.Common\bin\Debug\netcoreapp3.1\BitsPilani.CourseToCartPublisher.Common.deps.json
+D:\ScalableServiceAssignment\BitsPilani.CourseToCartPublisher.Microservice\BitsPilani.CourseToCartPublisher.Common\bin\Debug\netcoreapp3.1\BitsPilani.CourseToCartPublisher.Common.dll
+D:\ScalableServiceAssignment\BitsPilani.CourseToCartPublisher.Microservice\BitsPilani.CourseToCartPublisher.Common\bin\Debug\netcoreapp3.1\BitsPilani.CourseToCartPublisher.Common.pdb
+D:\ScalableServiceAssignment\BitsPilani.CourseToCartPublisher.Microservice\BitsPilani.CourseToCartPublisher.Common\obj\Debug\netcoreapp3.1\BitsPilani.CourseToCartPublisher.Common.AssemblyInfoInputs.cache
+D:\ScalableServiceAssignment\BitsPilani.CourseToCartPublisher.Microservice\BitsPilani.CourseToCartPublisher.Common\obj\Debug\netcoreapp3.1\BitsPilani.CourseToCartPublisher.Common.AssemblyInfo.cs
+D:\ScalableServiceAssignment\BitsPilani.CourseToCartPublisher.Microservice\BitsPilani.CourseToCartPublisher.Common\obj\Debug\netcoreapp3.1\BitsPilani.CourseToCartPublisher.Common.csproj.CoreCompileInputs.cache
+D:\ScalableServiceAssignment\BitsPilani.CourseToCartPublisher.Microservice\BitsPilani.CourseToCartPublisher.Common\obj\Debug\netcoreapp3.1\BitsPilani.CourseToCartPublisher.Common.dll
+D:\ScalableServiceAssignment\BitsPilani.CourseToCartPublisher.Microservice\BitsPilani.CourseToCartPublisher.Common\obj\Debug\netcoreapp3.1\BitsPilani.CourseToCartPublisher.Common.pdb

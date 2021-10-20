@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "rhuIIrC5+y4l4Azdm9unu6pTbL+KuWpjCBQiOSkBYx+vna7XTpOTvmVBk2hA6GBo5UoAQT+tKOzeBXcoTEZMNA==",
+  "success": true,
+  "projectFilePath": "D:\\ScalableServiceAssignment\\BitsPilani.CourseToCartPublisher.Microservice\\BitsPilani.CourseToCartPublisher.Common\\BitsPilani.CourseToCartPublisher.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kairav\\.nuget\\packages\\bitspilani.rabbitmqmessagebroker\\1.0.0\\bitspilani.rabbitmqmessagebroker.1.0.0.nupkg.sha512",
+    "C:\\Users\\Kairav\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Kairav\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\Kairav\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Kairav\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

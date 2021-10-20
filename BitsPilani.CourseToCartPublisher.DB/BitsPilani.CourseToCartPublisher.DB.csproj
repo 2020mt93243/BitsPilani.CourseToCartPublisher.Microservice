@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BitsPilani.RabbitMQMessageBroker" Version="1.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="5.0.0" />
+    <PackageReference Include="StackExchange.Redis" Version="2.2.79" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BitsPilani.CourseToCartPublisher.BL\BitsPilani.CourseToCartPublisher.BL.csproj" />
+    <ProjectReference Include="..\BitsPilani.CourseToCartPublisher.Common\BitsPilani.CourseToCartPublisher.Common.csproj" />
+  </ItemGroup>
+
+</Project>
